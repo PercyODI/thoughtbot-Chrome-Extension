@@ -1,0 +1,9 @@
+# Hello!
+
+- [ ] Something
+- [x] Something checked
+
+```javascript
+var test = "Hello";
+test.contains("Bob"); // False
+```
